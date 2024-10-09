@@ -1,5 +1,5 @@
 / name: Kshitij Yadav
-//PRN: 23070123052
+//PRN: 23070123075
 //factorial using recusrion
 
 #include<iostream>
